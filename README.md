@@ -58,6 +58,7 @@ You can deploy this website to any static hosting service, such as:
 - Vercel
 - AWS S3
 - Google Cloud Storage
+- Azure Blob Storage
 
 ### Project Structure
 
